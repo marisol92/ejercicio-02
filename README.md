@@ -11,13 +11,13 @@
 
 ### Página de productos 
 
-    ! [image,  Productos](./assets/productos.jpg)   
+    ![image,  Productos](/assets/productos.jpg)   
 
 
 ### Página de restaurantes 
 
 
-    ! [image, Restaurantes](./assets/restaurantes.jpg)
+    ![image, Restaurantes](/assets/restaurantes.jpg)
 
 
 
