@@ -7,7 +7,7 @@
 
 ### Página de hotel 
 
-    <image src="/assets/disney_hotels.jpg" alt="Image Disney Hotels">
+    <img height="200" src="/assets/disney_hotels.jpg" alt="Image Disney Hotels" />
 
 ### Página de productos 
 
