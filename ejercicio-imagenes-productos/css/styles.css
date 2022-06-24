@@ -1,0 +1,60 @@
+/**/
+body{
+    background-color: #273238;
+    /* font-family: var(--fuentes); */
+    font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+    font-variant: small-caps;
+}
+h1{
+    background-color: white;
+    font-family: "Arial Black", "Gadget", sans-serif; 
+    font-variant: smalls-caps; 
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    color: #698593
+}
+p{
+    color: white;
+}
+h2{
+    font-family: "Arial Black", "Gadget", sans-serif; 
+    font-variant: smalls-caps; 
+    font-style: italic;
+    font-weight: bold;
+}
+img{
+    width: 500px;
+    border: 7px solid;
+    margin-left: 40px;
+}
+.aspiradoras{
+    color:  #e6caba;
+}
+.celulares{
+    color:#a1c1cb
+}
+.consolas{
+    color:#bcbdbf
+}
+.homeTheaters{
+    color: #8d94a1;
+}
+.televisores{
+    color: #b2b2aa;
+}
+.bordeAspiradoras{
+    border-color: #e6caba; 
+}
+.bordeCelulares{
+    border-color:#a1c1cb
+}
+.bordeConsolas{
+    border-color:#bcbdbf
+}
+.bordeHomeTheaters{
+    border-color: #8d94a1;
+}
+.bordeTelevisores{
+    border-color: #b2b2aa;
+}

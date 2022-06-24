@@ -1,0 +1,39 @@
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    text-align: center;
+}
+.logo{
+    width: 200px;
+}
+
+h2,h3{
+    color: #bb5397;
+    letter-spacing: 5px;
+}
+h2{
+    text-align: center;
+    font-size:40px;
+    letter-spacing: 15px;
+    font-weight: 200;
+}
+p{
+    color: #5874ab;
+    font-size: 13px;
+    line-height: 19px;
+}
+img{
+    width: 380px;
+}
+.imagen1{
+    float: right;
+    margin-left: 10px;
+}
+.imagen2{
+    float: left;
+    margin-right: 10px;
+}
+.imagen-mikey-minnie{
+    width: 100%;
+}
