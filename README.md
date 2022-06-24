@@ -7,7 +7,7 @@
 
 ### Página de hotel 
 
-    ! [image, Disney hotels](./assets/disney_hotels.jpg)
+    <image src="./assets/disney_hotels.jpg" alt="Image Disney Hotels">
 
 ### Página de productos 
 
