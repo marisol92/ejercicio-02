@@ -6,8 +6,9 @@
 >Creacion de 3 paginas con HTML implementando CSS. 
 
 ### Página de hotel 
-
-    <img height="200" src="/assets/disney_hotels.jpg" alt="Image Disney Hotels" />
+    <p>
+    <img height="200" src="./assets/disney_hotels.jpg" alt="Image Disney Hotels" />
+    </p>
 
 ### Página de productos 
 
