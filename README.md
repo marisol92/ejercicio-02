@@ -2,21 +2,22 @@
 
 `Trabajo realizado como parte del bootcamp de Digitalers, con el fin de afianzar conocimientos impartidos en clase.`
 
+
 >Creacion de 3 paginas con HTML implementando CSS. 
 
 ### Página de hotel 
 
-    ![image, Disney hotels](/assets/disney_hotels.jpg)
+    ! [image, Disney hotels](./assets/disney_hotels.jpg)
 
 ### Página de productos 
 
-    ![image,  Productos](/assets/productos.jpg)   
+    ! [image,  Productos](./assets/productos.jpg)   
 
 
 ### Página de restaurantes 
 
 
-    ![image, Restaurantes](/assets/restaurantes.jpg)
+    ! [image, Restaurantes](./assets/restaurantes.jpg)
 
 
 
